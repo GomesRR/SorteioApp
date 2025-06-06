@@ -17,6 +17,9 @@ Organizar partidas mais justas, sorteando os jogadores de forma que os times fiq
 - Escolha da quantidade de jogadores por time.
 - Sorteio automático e balanceado dos times.
 
+![Tela Inicial](\ScreenShots\tela_inicial.png)
+
+
 ---
 
 ## 🚀 Como usar
