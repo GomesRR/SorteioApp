@@ -1,0 +1,53 @@
+# Delphi Binaries
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.dcp
+*.dcuil
+*.drc
+*.dsk
+
+# Arquivos de build temporários
+*.~*
+*.cfg
+*.local
+*.identcache
+*.map
+*.stat
+*.tvsconfig
+*.log
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Arquivos de configuração do IDE
+*.dproj.local
+*.dproj.intermediate
+*.dproj.fi
+*.tvsconfig
+*.ipj
+
+# Pastas comuns geradas pelo Delphi
+__history/
+__recovery/
+__published/
+Win32/
+Win64/
+Debug/
+Release/
+
+# Arquivos do Delphi LiveBindings
+*.fmx.~*
+*.dfm.~*
+
+# Outros arquivos temporários
+*.tmp
+*.rs~*
+*.#*
+
+# Arquivos do sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
