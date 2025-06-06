@@ -1,0 +1,43 @@
+
+Este script criará o banco e as tabelas necessárias para o funcionamento da aplicação.
+
+### 3. Configuração da Aplicação
+
+1. Aponte a aplicação para o banco de dados configurado no seu ambiente Delphi.
+2. Compile e execute.
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- **Delphi** (Interface e lógica de aplicação)
+- **MySQL** (Persistência dos dados)
+- **FireDAC ou equivalente** (Acesso ao banco de dados)
+
+---
+
+## 📸 Capturas de Tela
+
+### Tela Inicial
+Menu com opções principais para cadastrar jogadores ou realizar o sorteio:
+
+![Tela Inicial](./screenshots/tela_inicial.png)
+
+---
+
+### Cadastro de Jogador
+Interface para inserir o nome e a nota do jogador:
+
+![Cadastro de Jogador](./screenshots/cadastro_jogador.png)
+
+---
+
+### Sorteio de Times
+Painel de controle para selecionar jogadores, definir regras e executar o sorteio:
+
+![Sorteio de Times](./screenshots/sorteio_times.png)
+
+---
+
+## 📁 Estrutura do Projeto
+
